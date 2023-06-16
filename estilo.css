@@ -1,0 +1,23 @@
+h1{
+   font-family: Monoton;
+    font-size: 100px;
+    margin:  0.2em;
+  color: snow;
+  text-shadow: 10px 5px 23px #e60000;
+}
+body{
+  background-image: url("Mansion2.jpg");
+  background-size: cover;
+}
+button{
+  font-size: 50px;
+ box-shadow:  7px 7px 26px #fff5f5;
+  background-color: black;
+  color: white;
+}
+h2,h3{
+  background-color: black;
+  box-shadow: 7px 7px 27px white ;
+  color: #ffffff;
+  font-size: 80px;
+}
